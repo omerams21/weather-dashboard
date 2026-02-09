@@ -82,4 +82,4 @@ The expected user interface includes:
 
 A screenshot of the expected UI is available at:
 docs/ui-screenshot.png
-
+![Weather Dashboard UI](docs/ui-screenshot.png)
